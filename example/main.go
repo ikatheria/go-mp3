@@ -20,9 +20,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/hajimehoshi/oto/v2"
+	"github.com/ebitengine/oto/v3"
 
-	"github.com/hajimehoshi/go-mp3"
+	"github.com/ikatheria/go-mp3"
 )
 
 func run() error {
