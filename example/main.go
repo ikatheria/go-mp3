@@ -20,7 +20,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ebitengine/oto/v3"
+	"github.com/ikatheria/oto"
 
 	"github.com/ikatheria/go-mp3"
 )
